@@ -1,0 +1,6 @@
+parameters
+Gleak	0.050
+GKir	0.160
+Capacitance	1.000
+iniPotential	-68.437
+

@@ -1,0 +1,7 @@
+stepsinfo
+dT	0.0500
+duration	20.00	5.00	75.00
+ligandConc	0.00	0.00	0.00
+currentExt	0.00	1.00	0.00
+dCurrentExt	0.00	-2.00	0.00
+numSimulations	10
